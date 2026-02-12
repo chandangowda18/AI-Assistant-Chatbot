@@ -1,4 +1,4 @@
-chat interface
+Chat interface
 <img width="1903" height="1041" alt="Screenshot 2026-02-12 155918" src="https://github.com/user-attachments/assets/342357e7-92ce-43f5-860f-2aeadc4a922e" />
 
 Generating response section
